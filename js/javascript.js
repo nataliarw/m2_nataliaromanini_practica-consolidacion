@@ -34,6 +34,7 @@ function mostrarContenido(respuestaapi) {
             <div class="card-body">
               <h6 class="text-center">${temp.name}</h6>
               <p class="card-text text-center">Nivel: ${temp.level}</p>
+            </div>
             </div>`
     }
 
